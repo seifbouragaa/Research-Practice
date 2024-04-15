@@ -17,10 +17,13 @@ Recieve The Dataset from My Supervisor and Start Labeling the dataset Using [Lab
 Preprocess The dataset , Starting by generating CVS file From the Images XML **(For each Location)** files than create a TFrecord and a Label Map file and set the Model Parametere 
 
 ## Week six
-Training the Dataset (US Dataset) on a Single Model " Faster R-CNN Inception v2" To make sure our dataset is Labelled well and the model can handle our data without issues,We Than test it on a new Data never seen by the Model from (US, Armenia).
+Training the Dataset (US Dataset) on a Single Model " Faster R-CNN Inception v2" To make sure our dataset is Labelled well and the model can handle our data without issues,We Than test it on new Data never seen by the Model from (US, Armenia).
 
 ## Week Seven
 
 ## Week Eight
 
+## Week Nine
+
+## Week Ten 
 
